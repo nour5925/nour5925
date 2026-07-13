@@ -102,26 +102,14 @@
 
 <div align="center">
   
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour5925&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour5925&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nour5925&theme=radical)
 
 </div>
 
 ---
 
-## 💫 Fun Facts
 
-<div align="center">
 
-🔧 **I love the challenge** of making software and hardware work together seamlessly  
-🎨 **I see programming and design** as two sides of the same creative problem-solving coin  
-🚀 **Always curious** about how things work, from algorithms to mechanical systems  
-💡 **Believe in** the perfect blend of creativity and logic for innovation
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
